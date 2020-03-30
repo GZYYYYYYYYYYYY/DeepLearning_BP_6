@@ -6,17 +6,8 @@ bp算法 没有大量标记数据处理方法
 
 * Course: Understanding Deep Neural Networks
 * Teacher: Zhang Yi
-* Student:
-* ID:
 
 ## Files
-
-## Assignment 1
-
-* submit the ppt file named "assignment 1.pptx" and fill in the answer block.
-* you can try to answer with digital formulation or take a picture of your handcraft manuscript.
-
-## Assignment 2
 
 * `lab6.m` - the MATLAB code file for the main procedure of this lab.
 * `fc.m` - the MATLAB code file for feedforward computation.
